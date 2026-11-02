@@ -10,13 +10,11 @@
   </tr>
 </table>
 
-<p align="center"><b>Data Analyst</b> | Data Science Student</p>
-
 <p align="center">
    <a href="[tu-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:[nex97.ns@gmail.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <img src="https://img.shields.io/badge/Open_to_work-Data_Analyst-2ea44f?style=for-the-badge" alt="Open to work">
-  <img src="https://img.shields.io/badge/DATA_ANALYST-ASPIRING_DATA_SCIENTIST-F7931E?style=for-the-badge"Aspiring Data Scientist">
+  <img src="https://img.shields.io/badge/ASPIRING_DATA_SCIENTIST-F7931E?style=for-the-badge"Aspiring Data Scientist">
 </p>
 
 ---
@@ -31,8 +29,8 @@ visualización y modelos predictivos.
 
 <p align="center">
 🔭 Actualmente: estudiando Ciencias de Datos<br>
-🎓 [Tu formación o certificaciones]<br>
-📍 Ciudad de México
+🎓 Ingeniería en Tecnologías Interactivas y Animación Digital
+📍 Ciudad de México / Mexico City
 </p>
 
 ---
