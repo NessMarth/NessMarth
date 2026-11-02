@@ -3,7 +3,7 @@
     <td>
       <p align="left">
         <p align="center">
-<h1 align="center">Hola bienvenido a mi Github / Welcome to 👋, soy [Tu Nombre]</h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFtdDA5dDd5eTFuOWpuYzc4eGZ2OGswbHN5Ymh3ZTcyNHQzY2liZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/DuNeivERgB3HLRd945/giphy.gif" width="100" height="100"/>
+<h1 align="center">Hola bienvenido a mi GitHub / Welcome to my GitHub, soy [Tu Nombre]</h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFtdDA5dDd5eTFuOWpuYzc4eGZ2OGswbHN5Ymh3ZTcyNHQzY2liZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/DuNeivERgB3HLRd945/giphy.gif" width="100" height="100"/>
 <p align="center"><b>Analista de datos</b> | Cientifico de Datos</p>
 
 <p align="center">
