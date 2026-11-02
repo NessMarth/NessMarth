@@ -5,12 +5,12 @@
     </td>
     <td align="center" valign="middle">
       <h1>Hola, bienvenido a mi GitHub 👋<br>Welcome</h1>
-      <h3>Soy [Tu Nombre]</h3>
+      <h3>Soy Néstor Mártin Olvera Sandoval</h3>
     </td>
   </tr>
 </table>
 
-<p align="center"><b>Analista de Datos</b> | Científico de Datos en formación</p>
+<p align="center"><b>Data Analyst</b> | Data Science Student</p>
 
 <p align="center">
   <a href="[tu-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
