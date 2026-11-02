@@ -55,16 +55,16 @@ I'm building my career as a Data Analyst. I use Python, SQL, Excel and Power BI 
 <div align="center">
 
 <details>
-<summary><b>📈 Proyecto 1: [Nombre del proyecto]</b></summary>
+<summary><b>📈 Proyecto Megaline: Operador de telecomunicaciones Megaline</b></summary>
 <br>
 
-**Problema:** [Qué pregunta de negocio resuelve]
+**Problema:** Comprender el comportamiento de los usuarios con respecto a cada plan en los diferentes ámbitos, que son llamadas, minutos, mensajes e internet.
 
-**Resultado clave:** [Ej. "Predice churn con 85% de recall"]
+**Resultado clave:**
 
 **Herramientas:** Python · Pandas · Jupyter
 
-[🔗 Ver proyecto](https://github.com/tu-usuario/repo-1)
+[🔗 Ver proyecto]([https://github.com/tu-usuario/repo-1](https://github.com/NessMarth/Megaline-Project))
 
 <br>
 </details>
