@@ -22,10 +22,8 @@
 <h2 align="center">👤 Sobre mí / About me</h2>
 
 <p align="center">
-Analista de datos con interés en [tu área: finanzas, salud, retail...].<br>
-Me enfoco en convertir datos en decisiones: limpieza, análisis exploratorio,<br>
-visualización y modelos predictivos.
-</p>
+Estoy construyendo mi carrera como Analista de Datos. Trabajo con Python, SQL, Excel y Power BI para convertir datos en decisiones claras.<br>
+I'm building my career as a Data Analyst. I use Python, SQL, Excel and Power BI to turn data into clear decisions,<br>
 
 <p align="center">
 🔭 Actualmente: estudiando Ciencias de Datos<br>
@@ -71,32 +69,7 @@ visualización y modelos predictivos.
 <br>
 </details>
 
-<details>
-<summary><b>📊 Proyecto 2: [Nombre del proyecto]</b></summary>
-<br>
 
-**Problema:** [Ej. Seguimiento de ventas por región]
-
-**Resultado clave:** [Ej. Dashboard con 8 KPIs]
-
-**Herramientas:** SQL · Power BI
-
-[🔗 Ver proyecto](https://github.com/tu-usuario/repo-2)
-
-<br>
-</details>
-
-<details>
-<summary><b>🗺️ Proyecto 3: [Nombre del proyecto]</b></summary>
-<br>
-
-**Problema:** [Ej. Análisis de datos abiertos de INEGI / CDMX]
-
-**Resultado clave:** [Hallazgo principal con un número]
-
-**Herramientas:** Pandas · Plotly
-
-[🔗 Ver proyecto](https://github.com/tu-usuario/repo-3)
 
 <br>
 </details>
