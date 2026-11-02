@@ -64,7 +64,7 @@ I'm building my career as a Data Analyst. I use Python, SQL, Excel and Power BI 
 
 **Herramientas:** Python · Pandas · Jupyter
 
-[🔗 Ver proyecto]([https://github.com/tu-usuario/repo-1](https://github.com/NessMarth/Megaline-Project))
+[🔗 Ver proyecto]((https://github.com/tu-usuario/repo-1](https://github.com/NessMarth/Megaline-Project))
 
 <br>
 </details>
