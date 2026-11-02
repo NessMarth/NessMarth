@@ -4,7 +4,7 @@
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFtdDA5dDd5eTFuOWpuYzc4eGZ2OGswbHN5Ymh3ZTcyNHQzY2liZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/DuNeivERgB3HLRd945/giphy.gif" width="90" alt="Open to work">
     </td>
     <td align="center" valign="middle">
-      <h1>Hola, bienvenido a mi GitHub 👋<br>Welcome</h1>
+      <h1>Hola, bienvenido a mi GitHub 👋<br>Hi, Welcome to my Github</h1>
       <h3>Soy Néstor Mártin Olvera Sandoval</h3>
     </td>
   </tr>
@@ -13,9 +13,10 @@
 <p align="center"><b>Data Analyst</b> | Data Science Student</p>
 
 <p align="center">
-  <a href="[tu-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:[tu@correo.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+   <a href="[tu-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:[nex97.ns@gmail.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <img src="https://img.shields.io/badge/Open_to_work-Data_Analyst-2ea44f?style=for-the-badge" alt="Open to work">
+  <img src="https://img.shields.io/badge/DATA_ANALYST-ASPIRING_DATA_SCIENTIST-F7931E?style=for-the-badge"Aspiring Data Scientist">
 </p>
 
 ---
