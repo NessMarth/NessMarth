@@ -55,7 +55,7 @@ I'm building my career as a Data Analyst. I use Python, SQL, Excel and Power BI 
 <div align="center">
 
 <details>
-<summary><b>📈 Proyecto Megaline: Operador de telecomunicaciones Megaline</b></summary>
+<summary><b>📈 Proyecto en Python: Operador de telecomunicaciones Megaline</b></summary>
 <br>
 
 **Problema:** Comprender el comportamiento de los usuarios con respecto a cada plan en los diferentes ámbitos, que son llamadas, minutos, mensajes e internet.
