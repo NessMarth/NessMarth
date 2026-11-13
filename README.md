@@ -58,9 +58,9 @@ I'm building my career as a Data Analyst. I use Python, SQL, Excel and Power BI 
 <summary><b>📈 Proyecto en Python: Operador de telecomunicaciones Megaline</b></summary>
 <br>
 
-**Problema:** Comprender el comportamiento de los usuarios con respecto a cada plan en los diferentes ámbitos, que son llamadas, minutos, mensajes e internet.
+**Problema:** Comprender el comportamiento de los usuarios con respecto a cada plan en los diferentes ámbitos, que son llamadas, minutos, mensajes e internet. Determinar cuál de dos tarifas de prepago genera más ingresos para orientar el presupuesto de publicidad.
 
-**Resultado clave:**
+**Resultado clave:** Por cliente, Ultimate genera ~19% más ($72.31 vs $60.71 al mes); en el total, Surf suma más por tener 2.2× más usuarios. Prueba t de Welch: p ≈ 3.2 × 10⁻¹⁵.
 
 **Herramientas:** Python · Pandas · Jupyter
 
